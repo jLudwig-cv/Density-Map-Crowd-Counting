@@ -13,7 +13,7 @@ Density maps are continuous representations of crowd distributions in an image. 
 The model is based on a U-Net architecture. It is designed for image-to-image regression, where the input is an image of a crowd and the output is a corresponding density map which can be aggregated into an estimated count of people.
 
 <p align="center">
-  <img src="assets/U-Net-Crowd-Structure.png" width="700"/>
+  <img src="assets/U-Net-Crowd-Structure.png" width="1000"/>
 </p>
 
 ## Preprocessing & Training
