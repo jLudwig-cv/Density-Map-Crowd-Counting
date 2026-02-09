@@ -97,6 +97,8 @@ Compared to more complex models with attention mechanisms (e.g., CFANet, DMCNet,
 
 [5] Hui Lin et al. *Gramformer: Learning Crowd Counting via Graph-Modulated Transformer*. In: *Proceedings of the AAAI Conference on Artificial Intelligence*, Jan. 2024, pp. 3395–3403. doi: [10.1609/aaai.v38i4.28126](https://doi.org/10.1609/aaai.v38i4.28126)
 
-
-
+## Collaborators
+- Samuel Häseler
+- Jonas Janzen
+- Jinxin Eisenhut
 
